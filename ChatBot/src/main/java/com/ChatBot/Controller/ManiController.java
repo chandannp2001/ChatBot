@@ -20,4 +20,5 @@ public class ManiController {
 		System.out.println("dad");
 		return chatClient.call(message);
 	}
+	 
 }
